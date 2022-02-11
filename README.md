@@ -1,4 +1,11 @@
-### Hi there 👋
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=saurindashadia&theme=dark&background=000000" />
+</div>
+<p>&nbsp;</p>
+<div id="header" align="center">
+  <p>Working from home is like...!</p>
+  <img src="https://media.giphy.com/media/zruQbn0E0eva8/giphy.gif" width="200"/>
+</div>
 
 <!--
 **saurindashadia/saurindashadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
