@@ -30,7 +30,7 @@
 <div align="center">
   <p>Working from home is like...!</p>
   <img src="https://media.giphy.com/media/zruQbn0E0eva8/giphy.gif" width="200" />
-  <br/>
+  <h1>&nbsp;</h1>
   <img src="https://komarev.com/ghpvc/?username=saurindashadia&style=flat-square&color=blue" alt=""/>
 </div>
 
