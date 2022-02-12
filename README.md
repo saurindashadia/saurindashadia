@@ -25,7 +25,7 @@
 <p>&nbsp;</p>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=saurindashadia&theme=Javascript&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=saurindashadia&show_icons=true&count_private=true&hide_title=false&bg_color=F7E037&title_color=F7E037&hide_border=true&icon_color=000000&theme=swift" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurindashadia&show_icons=true&count_private=true&hide_title=true&bg_color=F7E037&title_color=F7E037&hide_border=true&icon_color=000000&theme=swift" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurindashadia&show_icons=true&theme=merko&layout=compact" />
 </div>
 <p>&nbsp;</p>
