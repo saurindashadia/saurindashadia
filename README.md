@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=saurindashadia&theme=dark&background=000000" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=saurindashadia&theme=Javascript&hide_border=true" />
 </div>
 <p>&nbsp;</p>
 <div id="header" align="center">
