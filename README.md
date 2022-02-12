@@ -18,6 +18,8 @@
       <a href="https://www.facebook.com/saurindashadia/" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&labelColor=111111&logoWidth=25" alt="Twitter Badge" />
       </a>
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=saurindashadia&style=flat-square&color=blue" alt=""/>
     </div>
   </h1>
   <p>Founder of @SymaticSolutions @Webizy | Co-organizer of Vadodara WordPress Meetup | Passionate developer since 2003 | Linux user</p>
