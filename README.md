@@ -43,7 +43,7 @@
     </tr>
     <tr>
       <td colspan="2" style="text-align:center;">
-        <img style="margin:auto;display:block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurindashadia&show_icons=true&theme=merko&layout=compact" />
+        <img style="margin:auto;display:block;max-width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurindashadia&show_icons=true&theme=merko&layout=compact" />
       </td>
     </tr>
   </table>
