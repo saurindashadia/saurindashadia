@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div align="center">
   <h1 style="border:none;">
     <div style="color:#5AAA12;font-size:36px;font-weight:600;">Saurin Dashadia</div>
   </h1>
@@ -31,7 +31,7 @@
 
 <p>&nbsp;</p>
 
-<div style="text-align:center;">
+<div align="center">
   <table>
     <tr>
       <td>
@@ -42,7 +42,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" style="text-align:center;">
+      <td colspan="2" align="center">
         <img style="margin:auto;display:block;max-width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurindashadia&show_icons=true&theme=merko&layout=compact" />
       </td>
     </tr>
@@ -51,7 +51,7 @@
 
 <p>&nbsp;</p>
 
-<div style="text-align:center;">
+<div align="center">
   <p>Working from home is like...!</p>
   <img src="https://media.giphy.com/media/zruQbn0E0eva8/giphy.gif" width="200" />
   <h1>&nbsp;</h1>
