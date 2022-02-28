@@ -30,10 +30,10 @@
   <table>
     <tr>
       <td>
-        <img style="max-height:165px" src="http://github-readme-streak-stats.herokuapp.com?user=saurindashadia&theme=Javascript&hide_border=true" />
+        <img style="height:165px" src="http://github-readme-streak-stats.herokuapp.com?user=saurindashadia&theme=Javascript&hide_border=true" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=saurindashadia&show_icons=true&count_private=true&hide_title=true&theme=swift&hide_border=true&bg_color=F7E037&title_color=000000&icon_color=000000" />
+        <img style="height:165px" src="https://github-readme-stats.vercel.app/api?username=saurindashadia&show_icons=true&count_private=true&hide_title=true&theme=swift&hide_border=true&bg_color=F7E037&title_color=000000&icon_color=000000" />
       </td>
     </tr>
     <tr>
