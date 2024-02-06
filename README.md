@@ -25,6 +25,8 @@
     <a href="https://www.facebook.com/saurindashadia/" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&labelColor=111111&logoWidth=25" alt="Twitter Badge" />
     </a>
+    <br/>
+    [![committers.top badge](https://user-badge.committers.top/india/USERNAME.svg)](https://user-badge.committers.top/india/saurindashadia)
   </div>
 
 </div>
