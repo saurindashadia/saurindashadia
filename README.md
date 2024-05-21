@@ -38,7 +38,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=saurindashadia&theme=hacker&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
       </td>
       <td>
-        <img style="height:165px" src="https://sd-grs.vercel.app/api?username=saurindashadia&include_all_commits=false&show_icons=true&count_private=true&hide_title=true&theme=dark&hide_border=true&title_color=20C20E&icon_color=20C20E&bg_color=000000" />
+        <img style="height:165px" src="https://sd-grs.vercel.app/api?username=saurindashadia&include_all_commits=false&show_icons=true&count_private=true&hide_title=true&theme=dark&hide_border=true&text_color=20C20E&icon_color=20C20E&bg_color=000000&ring_color=20C20E" />
       </td>
     </tr>
     <tr>
