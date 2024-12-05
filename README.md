@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111&logoWidth=25" alt="LinkedIn Badge" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/saurindashadia" target="_blank">
+    <a href="https://x.com/saurindashadia" target="_blank">
       <img src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=x&logoColor=white&labelColor=111111&logoWidth=25" alt="X Badge" />
     </a>
     &nbsp;
@@ -64,7 +64,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111&logoWidth=25" alt="LinkedIn Badge" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/saurindashadia" target="_blank">
+    <a href="https://x.com/saurindashadia" target="_blank">
       <img src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=x&logoColor=white&labelColor=111111&logoWidth=25" alt="X Badge" />
     </a>
     &nbsp;
